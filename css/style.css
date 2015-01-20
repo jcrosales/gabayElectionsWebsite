@@ -46,6 +46,10 @@ h6 {
 /*
 EDITS HERE
 */
+#edit
+{
+	background-color: rgba(61, 201, 179, 1);
+}
 #logo
 {
 	height: 200px;
@@ -120,7 +124,9 @@ h1.title
 {
 	text-shadow: 1px 1px 7px #666;
 }
-
+/*
+END
+*/
 
 h1,
 h2,
